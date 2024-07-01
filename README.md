@@ -1,24 +1,21 @@
 # Hi 👋, I'm Chenchang Xu
 
-
 - 🏀 I also go by Andy
-- 👨‍🎓 I’m a senior at Columbia University
-- 🌱 I’m currently learning distributed systems, computer graphics, and cool frontend technologies like Next.js
-
-- 💬 Ask me about anything
+- 👨‍🎓 Columbia University - B.S. in Computer Science + (currently) M.S. in Computer Science
+- 👨‍🎓 Colby College - B.A. in Math Sciences: Statistics
+- 🌱 I’m currently learning distributed systems and web development technologies.
 - 📫 How to reach me: andyccxu@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I take a stroll in the park after lunch every day.
 
 
-
-## 💻 My tech stack
+## My tech stack
 
 ### Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,go,nodejs,html,css,javascript,postgres" />
+    <img src="https://skillicons.dev/icons?i=python,go,c,java,nodejs,html,css,javascript,mysql" />
   </a>
 </p>
 
@@ -26,7 +23,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,react,jest,tailwind,flask" />
+    <img src="https://skillicons.dev/icons?i=django,express,react,jest,tailwind" />
   </a>
 </p>
 
@@ -34,15 +31,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,idea,vscode,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,grafana,postman,linux,vim" />
   </a>
 </p>
-
-## 🤔 I am currently learning
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,graphql,nextjs" />
-  </a>
-</p>
-
