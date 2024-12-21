@@ -1,8 +1,11 @@
 # Hi 👋, I'm Chenchang (Andy) Xu
 
 👨‍🎓 MSCS student at Columbia University
+
 🌱 Currently learning distributed systems and web development technologies
+
 📫 How to reach me: andyccxu@outlook.com
+
 😄 Pronouns: He/Him
 
 ## My tech stack
